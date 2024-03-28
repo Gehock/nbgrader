@@ -2,7 +2,7 @@ A summary of changes to nbgrader.
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
-## 0.9.2.dev500
+## 0.9.2.dev501
 
 ### Dummy entry
 
