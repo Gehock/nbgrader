@@ -2,6 +2,10 @@ A summary of changes to nbgrader.
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.9.2.dev500
+
+### Dummy entry
+
 ## 0.9.2
 
 ([Full Changelog](https://github.com/jupyter/nbgrader/compare/v0.9.1...9876829b6be4fccce621ffee907bd5f9ac400c44))
